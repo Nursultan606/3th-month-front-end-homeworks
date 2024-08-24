@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Наруто Узумаки",
+    "description": "Наруто Узумаки 7 хокаге герой положивший конец великой войне",
+    "person_photo": "https://media.2x2tv.ru/content/images/size/w1440h810/2022/04/-----------------------3.jpg"
+  },
+  {
+    "name": "Джек Воробей",
+    "description": "Пират, потерпевший кораблекрушение и выживший на необитаемом острове.",
+    "person_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDO1uhRImu1LYefVNecOaB4SRIaJmuBFn_yw&s"
+  },
+    {
+    "name": "Александр Пушкин",
+    "description": "Алекса́ндр Серге́евич Пу́шкин — русский поэт, драматург и прозаик, литературный критик и теоретик литератур, редактор и издатель.",
+    "person_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6k8hxPFohPeUWs7I8HkOR-8vtsDmFDypffoNAcgs8qndtN7cq"
+  }
+]
